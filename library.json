@@ -1,0 +1,35 @@
+
+[
+  {
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "publication_year":2015 ,
+    "genre": "programming",
+    read_status": false,
+    "added_data": "2025-04-08 06:03:80"
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "publication_year":2015,
+    "genre": "programming",
+    read_status": true,
+    "added_data": "2025-04-08 06:05:08"
+  },
+  {
+    "title": "Python for Data Analysis",
+    "author": "Wes McKinney ",
+    "publication_year": 2017 (2nd Edition),
+    "genre": "programming",
+    read_status": false,
+    "added_data": "2025-04-08 06:07:15"
+  },
+  {
+    "title": "Learning Python",
+    "author": "Mark Lutz",
+    "publication_year": 2013 (5th Edition),
+    "genre": "programming",
+    read_status": true,
+    "added_data": "2025-04-08 06:10:30"
+  }
+]
